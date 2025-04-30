@@ -1,3 +1,8 @@
+---
+layout: default
+title: サンプル4：GitHub OSS技術解説・実践記事生成プロンプトの分析
+---
+
 # プロンプト構成意図：GitHub OSS技術解説・実践記事生成
 
 ## 🎯 目的
