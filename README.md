@@ -20,11 +20,11 @@
 | 技術解説記事 | 自然言語で3Dソフトを操作する試み | [読む](https://zenn.dev/cacc_lab/articles/44ac3faa50080c) |
 
 ## 📁 ファイル構成
-- `samples/` ディレクトリに、各記事に関連する設計意図やプロンプト構成例をMarkdownで掲載しています
-  - [書籍紹介記事分析](samples/sample1-book-review-analysis.md)
-  - [ブログ記事分析](samples/sample2-blog-analysis.md)
-  - [Webサイト技術まとめ分析](samples/sample3-web-summary-analysis.md)
-  - [技術解説記事分析](samples/sample4-tech-article-prompt-analysis.md)
+- `prompt-analyses/` ディレクトリに、各記事に関連する設計意図やプロンプト構成例をMarkdownで掲載しています
+  - [書籍紹介記事分析](prompt-analyses/sample1-book-review-analysis.md)
+  - [ブログ記事分析](prompt-analyses/sample2-blog-analysis.md)
+  - [Webサイト技術まとめ分析](prompt-analyses/sample3-web-summary-analysis.md)
+  - [技術解説記事分析](prompt-analyses/sample4-tech-article-prompt-analysis.md)
 
 ## 🛠 使用ツール・技術
 - ChatGPT Plus（GPT Builder）
